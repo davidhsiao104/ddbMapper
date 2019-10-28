@@ -26,6 +26,11 @@ import software.amazon.awssdk.services.dynamodb.model.AttributeAction;
 import software.amazon.awssdk.services.dynamodb.model.AttributeValue;
 import software.amazon.awssdk.services.dynamodb.model.AttributeValueUpdate;
 
+/**
+ * 
+ * @author david.hsiao
+ *
+ */
 public class DDBMapper {
 
   // ISO-8601
